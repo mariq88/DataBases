@@ -1,0 +1,1 @@
+Change the server in the app.config file, if you-re using an SQL Express server.

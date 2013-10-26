@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<catalogue name="Song Catalogue">
+	<album>
+		<name>Ritchie Blackmore's Rainbow</name>
+		<artist>Rainbow</artist>
+		<year>1975</year>
+		<producer>Polydor</producer>
+		<price>12$</price>
+		<song>The Man on the Silver Mountain</song>
+	</album>
+	<album>
+		<name>Appetite for Destruction</name>
+		<artist>Guns'n'Roses</artist>
+		<year>1987</year>
+		<producer>Mike Clink</producer>
+		<price>12.5$</price>
+		<song>Welcome To The Jungle</song>
+	</album>
+	<song>
+		<title>Welcome To The Jungle</title>
+		<duration>3.50</duration>
+	</song>
+</catalogue>

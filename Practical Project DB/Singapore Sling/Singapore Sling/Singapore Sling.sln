@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Product Reports", "SingaporeSlingTeamProject\04. Product Reports.csproj", "{26E8E1A9-EDEB-4AEB-A6EC-59D565B55DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarketInfo.Model", "SuperMarketInfo.Model\SuperMarketInfo.Model.csproj", "{7BF5AA95-5895-4F52-AFC4-4D74887ABAE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Load Excel Reports from ZIP File", "Ex1\01. Load Excel Reports from ZIP File.csproj", "{C6AC44E3-B638-42C2-8697-D5AC0E138F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Generate PDF Aggregated Sales Reports", "ConvertToPdf\02. Generate PDF Aggregated Sales Reports.csproj", "{330190EE-1DE4-48FD-B21B-36362F5B6131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Generate XML Sales Report by Vendors", "GenerateXML\03. Generate XML Sales Report by Vendors.csproj", "{0035F291-32DB-4764-9480-A4D63A3D2FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Load Vendor Expenses from XML", "05\05. Load Vendor Expenses from XML.csproj", "{E51ED766-2C48-4529-9044-2D0749542698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Vendors Total Report", "XMLReportToExcel\06. Vendors Total Report.csproj", "{4B3AB722-A608-4F1E-82BB-4D604252C1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E8E1A9-EDEB-4AEB-A6EC-59D565B55DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E8E1A9-EDEB-4AEB-A6EC-59D565B55DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E8E1A9-EDEB-4AEB-A6EC-59D565B55DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E8E1A9-EDEB-4AEB-A6EC-59D565B55DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF5AA95-5895-4F52-AFC4-4D74887ABAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF5AA95-5895-4F52-AFC4-4D74887ABAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF5AA95-5895-4F52-AFC4-4D74887ABAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF5AA95-5895-4F52-AFC4-4D74887ABAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AC44E3-B638-42C2-8697-D5AC0E138F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AC44E3-B638-42C2-8697-D5AC0E138F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AC44E3-B638-42C2-8697-D5AC0E138F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AC44E3-B638-42C2-8697-D5AC0E138F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330190EE-1DE4-48FD-B21B-36362F5B6131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330190EE-1DE4-48FD-B21B-36362F5B6131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330190EE-1DE4-48FD-B21B-36362F5B6131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330190EE-1DE4-48FD-B21B-36362F5B6131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0035F291-32DB-4764-9480-A4D63A3D2FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0035F291-32DB-4764-9480-A4D63A3D2FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0035F291-32DB-4764-9480-A4D63A3D2FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0035F291-32DB-4764-9480-A4D63A3D2FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51ED766-2C48-4529-9044-2D0749542698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51ED766-2C48-4529-9044-2D0749542698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51ED766-2C48-4529-9044-2D0749542698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51ED766-2C48-4529-9044-2D0749542698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3AB722-A608-4F1E-82BB-4D604252C1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3AB722-A608-4F1E-82BB-4D604252C1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3AB722-A608-4F1E-82BB-4D604252C1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3AB722-A608-4F1E-82BB-4D604252C1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
